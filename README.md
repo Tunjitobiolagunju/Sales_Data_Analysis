@@ -32,6 +32,6 @@ Top payment method: Cash
 
 2. Evaluate and improve sales of low-performing products: As the Souvenir category is the least selling, I recommend evaluating the marketing strategy, pricing strategy, or product design to improve sales. This could involve increasing marketing efforts or improving the design of products in the category to make them more appealing to customers.
 
-3. Increase sales performance in low-performing stores: As Forum istan is the least selling store, I recommend analyzing the marketing strategy and pricing strategy to improve sales performance. This could involve introducing new products, redesigning the store layout, or retraining staff to improve their sales skills.
+3. Increase sales performance in low-performing stores: As Forum Istanbul is the least selling store, I recommend analyzing the marketing strategy and pricing strategy to improve sales performance. This could involve introducing new products, redesigning the store layout, or retraining staff to improve their sales skills.
 
 4. Diversify payment methods: While cash is the top payment method, I recommend diversifying payment methods to include digital payment options, such as mobile payments and online payments. This could provide more convenience for customers and improve sales performance.
