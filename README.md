@@ -19,7 +19,7 @@ Top payment method: Cash
 
 1. Increase focus on top-selling products: Given that clothing is the top-selling product category and generates the most revenue with the female clothing performing more, I recommend increasing focus on promoting clothing. This could include targeted advertising campaigns, sales promotions, or offering discounts on related products.
 
-2.Evaluate and improve sales of low-performing products: As the Souvenir category is the least selling, I recommend evaluating the marketing strategy, pricing strategy, or product design to improve sales. This could involve increasing marketing efforts or improving the design of products in the category to make them more appealing to customers.
+2. Evaluate and improve sales of low-performing products: As the Souvenir category is the least selling, I recommend evaluating the marketing strategy, pricing strategy, or product design to improve sales. This could involve increasing marketing efforts or improving the design of products in the category to make them more appealing to customers.
 
 3. Increase sales performance in low-performing stores: As Forum istan is the least selling store, I recommend analyzing the marketing strategy and pricing strategy to improve sales performance. This could involve introducing new products, redesigning the store layout, or retraining staff to improve their sales skills.
 
