@@ -5,15 +5,15 @@ This report provides an analysis of sales data for the period between  January 2
 
 ## Key Insights:
 
-Total number of sales: 99,457
-Total quantity sold: 298,712
-Total revenue: $68.55M
-Top selling products category: Clothing (103,558)
-Least selling products category: Souvenir (14,871)
-Top revenue generating product: Clothing ($31M)
-Top selling store: Mall of Istanbul ($14M)
-Least selling store: Forum Istanbul($3M)
-Top payment method: Cash
+Total number of sales: 99,457  
+Total quantity sold: 298,712  
+Total revenue: $68.55M  
+Top selling products category: Clothing (103,558)  
+Least selling products category: Souvenir (14,871)  
+Top revenue generating product: Clothing ($31M)  
+Top selling store: Mall of Istanbul ($14M)  
+Least selling store: Forum Istanbul($3M)  
+Top payment method: Cash  
 
 ## Recommendations:
 
