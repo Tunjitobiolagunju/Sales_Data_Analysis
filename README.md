@@ -1,4 +1,4 @@
-# Sales_Data_Analysis
+# Sales Data Analysis
 
 ## Overview:
 This report provides an analysis of sales data for the period between  January 2021 and March 2023, focusing on how products in each category are performing in different shopping malls. The report includes information on total number of sales, total quantity sold, total revenue, top selling products category, least selling products category, top revenue generating product, top-selling store, least selling store, and top payment method. Based on the analysis of this data, I have identified several key insights and recommendations for improving sales performance.
